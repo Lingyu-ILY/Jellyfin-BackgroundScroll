@@ -4,6 +4,10 @@ Add a slow scrolling effect to the Jellyfin Item page background
 # Installation
 Add code to you jellyfin custom css
 ```
+@import url("https://raw.githubusercontent.com/Lingyu-ILY/Jellyfin-BackgroundScroll/refs/heads/main/style.css");
+```
+or use this
+```
 @keyframes backgroundScroll {
     0% { transform: translate(-12%,0%); opacity: 0; }
     0.1% { opacity: 1; }
