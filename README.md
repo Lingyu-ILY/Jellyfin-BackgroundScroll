@@ -1,6 +1,7 @@
 # Jellyfin-BackgroundScroll
 Add a slow scrolling effect to the Jellyfin Item page background
-Also works on Emby
+> [!NOTE]
+> After testing, it has been confirmed that it also works on Emby.
 
 # Installation
 Add code to you jellyfin custom css
@@ -46,9 +47,11 @@ or use this
 }
 ```
 
+## 中文
 # Jellyfin-滾動背景特效
 在 Jellyfin 的劇集頁面添加慢速移動的背景
-在 Emby 上也可正常使用
+> [!NOTE]
+> 在測試過後確認 Emby 上也可正常使用
 
 # 安裝
 添加以下代碼至自訂CSS裡
